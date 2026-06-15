@@ -5,7 +5,6 @@ go 1.26.4
 require (
 	github.com/go-playground/validator/v10 v10.30.3
 	github.com/stretchr/testify v1.11.1
-	github.com/yca-software/2chi/packages/go-core v0.0.0-20260612055311-aef522ed2ea2
 )
 
 require (
