@@ -1,6 +1,6 @@
 module github.com/yca-software/2chi-go-validator
 
-go 1.26.4
+go 1.26.1
 
 require (
 	github.com/go-playground/validator/v10 v10.30.3
